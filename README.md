@@ -9,3 +9,5 @@ Following LearnCpp and documenting my progress.
 - Parameters and arguments
 - Local variables
 - Local scope
+- Forward declaration and definitions
+- Creating multiple cpp file for complex projects
