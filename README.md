@@ -11,3 +11,10 @@ Following LearnCpp and documenting my progress.
 - Local scope
 - Forward declaration and definitions
 - Creating multiple cpp file for complex projects
+- Naming collisions and namespaces
+- Scope region
+- Namespace scope, Global namespace, std namespace and why not to use std namespace
+- Macro defines
+  Object-like macro (with or without substitution text)
+  Function-like macro
+- Conditional compilation 
