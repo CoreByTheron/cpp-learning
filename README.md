@@ -17,4 +17,9 @@ Following LearnCpp and documenting my progress.
 - Macro defines
   Object-like macro (with or without substitution text)
   Function-like macro
-- Conditional compilation 
+- Conditional compilation
+- Header files
+  Angled brackets and double quotes
+  Transitive includes
+- Header guards
+  #pragma once
