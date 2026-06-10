@@ -23,3 +23,5 @@ Following LearnCpp and documenting my progress.
   Transitive includes
 - Header guards
   #pragma once
+- Syntax and semantics errors
+- Debugging 
