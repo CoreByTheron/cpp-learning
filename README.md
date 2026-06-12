@@ -24,4 +24,8 @@ Following LearnCpp and documenting my progress.
 - Header guards
   #pragma once
 - Syntax and semantics errors
-- Debugging 
+- Debugging
+  Integrated debugger
+- Fundamental data types
+  Void
+  Signed Integers 
