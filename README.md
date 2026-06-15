@@ -28,4 +28,5 @@ Following LearnCpp and documenting my progress.
   Integrated debugger
 - Fundamental data types
   Void
-  Signed Integers 
+  Signed Integers, unsigned integer and overflow
+  Floating point 
