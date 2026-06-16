@@ -29,4 +29,5 @@ Following LearnCpp and documenting my progress.
 - Fundamental data types
   Void
   Signed Integers, unsigned integer and overflow
-  Floating point 
+  Floating point numbers and its errors
+  Boolean values
