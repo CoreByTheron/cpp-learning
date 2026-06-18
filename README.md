@@ -31,4 +31,7 @@ Following LearnCpp and documenting my progress.
   Signed Integers, unsigned integer and overflow
   Floating point numbers and its errors
   Boolean values
-- If-else statement 
+  Chars
+- If-else statement
+- Escape sequence
+- Type conversion-- static_cast
