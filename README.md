@@ -32,6 +32,12 @@ Following LearnCpp and documenting my progress.
   Floating point numbers and its errors
   Boolean values
   Chars
+  Literals
 - If-else statement
 - Escape sequence
 - Type conversion-- static_cast
+- Constant variable
+- Numeral system (Decimal, Binary, Hexadecimal, Octal)
+- Outputting values in binary
+  std::bitset
+  using format/print library 
