@@ -33,6 +33,7 @@ Following LearnCpp and documenting my progress.
   Boolean values
   Chars
   Literals
+  string
 - If-else statement
 - Escape sequence
 - Type conversion-- static_cast
@@ -40,4 +41,8 @@ Following LearnCpp and documenting my progress.
 - Numeral system (Decimal, Binary, Hexadecimal, Octal)
 - Outputting values in binary
   std::bitset
-  using format/print library 
+  using format/print library
+- Compile-time optimization
+- Constant expression
+  Constexpr veritable
+- std::getline(), std::ws, std::ssize(), length()
