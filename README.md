@@ -33,7 +33,7 @@ Following LearnCpp and documenting my progress.
   Boolean values
   Chars
   Literals
-  string
+  string-- std::string, std::string_view
 - If-else statement
 - Escape sequence
 - Type conversion-- static_cast
