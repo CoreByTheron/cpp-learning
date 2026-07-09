@@ -1,0 +1,19 @@
+#include <iostream>
+#include <string_view>
+
+int main()
+{
+    std::string_view str{"Peach"};
+    std::cout<<str<<'\n';
+
+    str.remove_suffix(1);
+    std::cout<<str<<'\n';
+
+    str.remove_prefix(2);
+    std::cout<<str<<'\n';
+
+    str="Peach";
+    std::cout<<str<<'\n';
+
+    return 0;
+}
