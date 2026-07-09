@@ -46,3 +46,8 @@ Following LearnCpp and documenting my progress.
 - Constant expression
   Constexpr veritable
 - std::getline(), std::ws, std::ssize(), length()
+- Operator precedence and associativity
+- Arithmetic operators
+  remainder and exponentiation
+- Increment/Decrement Operator and side effect
+- Coma and conditional operator
