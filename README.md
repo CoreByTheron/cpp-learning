@@ -51,3 +51,5 @@ Following LearnCpp and documenting my progress.
   remainder and exponentiation
 - Increment/Decrement Operator and side effect
 - Coma and conditional operator
+- Relational database
+- Logical operators
