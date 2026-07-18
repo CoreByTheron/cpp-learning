@@ -53,3 +53,5 @@ Following LearnCpp and documenting my progress.
 - Coma and conditional operator
 - Relational database
 - Logical operators
+- Bit flags and bit manipulation
+- Bitwise operators
